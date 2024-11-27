@@ -1,0 +1,15 @@
+{
+  "name": "daftar-tugas",
+  "version": "1.0.0",
+  "description": "daftar tugas",
+  "main": "index.js",
+  "type": "commonjs", 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sadam payoda",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.11.0"
+  }
+}
